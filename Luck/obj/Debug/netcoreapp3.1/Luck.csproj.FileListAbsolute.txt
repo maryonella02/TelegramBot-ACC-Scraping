@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\Luck\Luck\bin\Debug\netcoreapp3.1\Luck.exe
+C:\Users\user\source\repos\Luck\Luck\obj\Debug\netcoreapp3.1\Luck.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Luck\Luck\obj\Debug\netcoreapp3.1\Luck.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Luck\Luck\obj\Debug\netcoreapp3.1\Luck.AssemblyInfo.cs
